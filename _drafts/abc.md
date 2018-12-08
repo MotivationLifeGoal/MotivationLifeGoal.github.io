@@ -1,0 +1,8 @@
+---
+title: abc
+subtitle: It's always a bit messy
+author: Wferr
+avatar: img/authors/wferr.png
+image: img/f.jpg
+date: 2015-04-25 12:12:12
+---
